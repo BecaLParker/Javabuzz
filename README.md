@@ -13,7 +13,9 @@ My first javascript files
 - Refactor the code so it's clean.
 
 ## Credits
-https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill.md 
+[Walkthrough for jasmine TDD process for Javabuzz](https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill.md)
+
+[Debugging and console.log loop example](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/following_the_flow_and_getting_visibility_in_javascript_es6)
 
 ## Interacting with this code:
 1. Clone the repo 
@@ -25,12 +27,12 @@ https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill
   
   If you also want to check individual numbers, you can initialise an instance of `Javabuzz();`  in the console prompt:
 
-    `var javabuzz = new Javabuzz();`  
+   `var javabuzz = new Javabuzz();`  
 
 
-    and then throw some numbers at it:
+   and then throw some numbers at it:
 
-    ```
+   ```
     >  javabuzz.says(3)
     <- "Java"
 
@@ -42,5 +44,5 @@ https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill
 
     >  javabuzz.says(1)
     <- 1
-    ```
+   ```
 
