@@ -27,6 +27,7 @@ https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill
 
     `var javabuzz = new Javabuzz();`  
 
+
     and then throw some numbers at it:
 
     ```
