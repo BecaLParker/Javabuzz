@@ -2,10 +2,10 @@
 My first javascript files
 
 ## What does it do?
-- Prints the numbers from 1 to 100 in the console
-- If a number is divisible by 3 print "Java" instead
-- If a number is divisible by 5 print "Buzz" instead
-- If a number is divisible by 3 and 5 print "JavaBuzz" instead
+- Prints the numbers from 1 to 100 in the console BUT:
+    - If a number is divisible by 3 print "Java" instead
+    - If a number is divisible by 5 print "Buzz" instead
+    - If a number is divisible by 3 and 5 print "JavaBuzz" instead
 
 ## Learning Objectives covered
 - Use Jasmine to Test-Drive Development
@@ -25,9 +25,8 @@ https://github.com/makersacademy/course/blob/master/pills/javascript&JasminePill
   
   If you also want to check individual numbers, you can initialise an instance of `Javabuzz();`  in the console prompt:
 
-    ```
-    var javabuzz = new Javabuzz();
-    ```
+    ` var javabuzz = new Javabuzz();`  
+
     and then throw some numbers at it:
 
     ```
