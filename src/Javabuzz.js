@@ -31,3 +31,9 @@ class Javabuzz {
     return number;
   }
 }
+
+var javaBuzz = new Javabuzz();
+
+for (let i = 1; i <= 100; i++) {
+  console.log(javaBuzz.says(i));
+}
